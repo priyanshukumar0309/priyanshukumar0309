@@ -1,6 +1,6 @@
-# 👋 Hi, I’m **Kumar Priyanshu**
+# **Kumar Priyanshu**
 
-## TL;DR
+
 
 I’m a **product manager** with a deep interest in **fintech** and a hands‑on background in **software engineering**.  My mission is to bridge the gap between business strategy and technical execution—building products that solve real problems for small and medium‑sized businesses.  I’m passionate about crafting user‑centric solutions, leveraging modern web technologies, and continuously learning to stay ahead.
 
@@ -46,7 +46,3 @@ These initiatives reflect my commitment to building secure and scalable financia
 - **Location:** Stockholm, Sweden
 
 Feel free to connect if you’d like to collaborate on fintech projects, discuss product strategy, or chat about emerging technologies.
-
-## Failure Mode & Next Steps
-
-If this profile README doesn’t reflect your expectations, it may be because your priorities or recent projects have shifted.  In that case, let me know what’s missing or outdated, and I’ll update it accordingly.  Otherwise, the next step is to create a repository named **`priyanshukumar0309`** and add this `README.md` to it.  Once committed, it will automatically display on your GitHub profile page.
