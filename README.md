@@ -7,22 +7,26 @@ I’m a **product manager** with a deep interest in **fintech** and a hands‑on
 ## Skills & Technologies
 
 * **Product Management:** Roadmapping, API design, stakeholder alignment, data‑driven prioritization
-* **Software Development:** TypeScript, React, Node.js, Tailwind CSS, Vite, Three.js
-* **Fintech & Payments:** Payment APIs, checkout systems, alternative payment methods
-* **Tooling & Frameworks:** React Router, React Query, shadcn‑ui, Supabase, GSAP, Three.js
+* **Software Development:** TypeScript, Python, React, Node.js, Tailwind CSS, Vite, Three.js
+* **Fintech & Payments:** Payment APIs, checkout systems, alternative payment methods, digital lending
+* **Tooling & Frameworks:** React Router, React Query, shadcn‑ui, Supabase, Streamlit, GSAP, Next.js
 
-## Featured Projects
+## Top Projects
 
-* 🚗 **[Car LoanHub Demo](https://github.com/priyanshukumar0309/LoanHub-Demo)** – End‑to‑end car financing application for the Italian market. Features a step‑by‑step loan flow, finance calculator, offer comparison across banks, and SPID digital identity integration. **Live:** [volvo-finance-chooser.vercel.app](https://volvo-finance-chooser.vercel.app)
-* 🌌 **[Deep Space Node Explorer](https://github.com/priyanshukumar0309/Portfolio)** – Interactive 3D portfolio built with React Three Fiber. Explore projects via a starfield and hierarchical node tree with smooth camera controls. **Live:** [portfolio-nine-sepia-47.vercel.app](https://portfolio-nine-sepia-47.vercel.app)
-* 📄 **[Invoice Haven Landing](https://github.com/priyanshukumar0309/invoice-haven-landing)** – Landing page prototype built with Vite, React, TypeScript, shadcn‑ui, and Tailwind CSS.
+* 🚗 **Car LoanHub Demo** – End‑to‑end car financing application for the Italian market. Features a step‑by‑step loan flow, finance calculator, offer comparison across banks, and SPID digital identity integration. **Live:** volvo‑finance‑chooser.vercel.app (public)
+* 🌌 **Deep Space Node Explorer** – Interactive 3D portfolio built with React Three Fiber; explore projects via a starfield and hierarchical node tree with smooth camera controls. **Live:** portfolio‑nine‑sepia‑47.vercel.app (public)
+* 🧘 **Boredom — Embrace Silence** – Minimal PWA that encourages stillness. Provides a black screen with slow‑typing messages, idle detection, optional voice mode, local AI running in‑browser, and offline capability (private).
+* 🧬 **SAP FEBEP Data Pipeline & Analysis System** – Comprehensive pipeline for SAP FEBEP transaction analysis. Fetches transaction data from SAP OData service, performs currency conversion and auto‑posting analysis, and delivers interactive Streamlit dashboards (private).
+* 🛡 **Notion Azure DevOps Sync** – Python application that synchronizes work items between Azure DevOps and Notion with a clean architecture, robust error handling, and a user‑friendly interface. Streamlines workflows and ensures data consistency (private).
+* 🎙 **MentiMeter** – Interactive presentation platform enabling real‑time audience engagement through polls, quizzes, and feedback. Built with React, TypeScript, and Supabase, and backed by comprehensive documentation and product requirements (private).
+* 🖌 **Henna‑Design** – Portfolio website for a henna design brand. Implements an optimized deployment strategy using thumbnails versus full‑size images and offers Netlify deployment options. Built with TypeScript and HTML (public).
+* 🗓 **FinCore** – Internal financial core application for managing invoices and customers. Includes advanced data tables with sorting, filtering, pagination, and reusable components (private).
+* 🧬 **Sovereign‑Scrolls** – Cross‑platform PWA with extensive technical documentation and scripts for deployment, safe‑area optimization, and backend/frontend integration (private).
+* 🧰 **Sovereign Curiosity UX** – UI/UX prototype repository for the Sovereign Curiosity initiative built with a TypeScript/Next.js stack (private).
 
-## Private & Past Projects
+## Other Initiatives
 
-* 🔒 **Payment Infrastructure (private)** – Designed and integrated payment gateways, alternative payment methods, and checkout APIs for merchants.
-* 🔒 **B2B Fintech Solutions (private)** – Prototyped tools for small and medium businesses—such as invoicing, digital lending, and reconciliation dashboards—to enhance financial inclusion.
-* 🔒 **Internal Experiments (private)** – Rapid A/B testing for new user flows, compliance features, and onboarding experiences.
-* 📃 **Early Projects** – Android apps, PHP web apps, and Python scripts from my student days capturing my growth from developer to product leader.
+In addition to these major projects, I’ve also built and experimented with payment infrastructure, checkout systems, B2B fintech tools, and numerous early projects—from Android apps to PHP and Python scripts—that chart my evolution from developer to product leader.
 
 ## Experience Timeline
 
