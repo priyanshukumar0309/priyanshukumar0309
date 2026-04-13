@@ -12,8 +12,8 @@ I’m a **product manager** with a deep interest in **fintech** and a hands‑on
 * **Tooling & Frameworks:** React Router, React Query, shadcn‑ui, Supabase, Streamlit, GSAP, Next.js
 
 ## Top Projects
-* 🗓 **FinCore** [https://finafa.eu/] – AI powered financial Platfomr for managing invoices, payments and accounting for Employees, suppliers and customers. 
-* 🧬 **Sovereign‑Scrolls** [https://socur.finafa.eu/] – Convert AI slop into byte-sized meaningful and rememberable knowledge cards. Platforms learns what you like and improves you wisdom on that. Kind of Instagram but for fun factual knowledge.
+* 🗓 **FinCore** (https://finafa.eu/)– AI powered financial Platfomr for managing invoices, payments and accounting for Employees, suppliers and customers. 
+* 🧬 **Sovereign‑Scrolls** (https://socur.finafa.eu/) – Convert AI slop into byte-sized meaningful and rememberable knowledge cards. Platforms learns what you like and improves you wisdom on that. Kind of Instagram but for fun factual knowledge.
  
 
     
@@ -41,5 +41,5 @@ In addition to these major projects, I’ve also built and experimented with pay
 * **Website:** [kumarpriyanshu.in](https://kumarpriyanshu.in)
 * **Email:** priyanshukumar0309@gmail.com
 * **Location:** Stockholm, Sweden
-* **Linedin:** [[kpriyans(https://www.linkedin.com/in/kpriyanshu)]
+* **Linedin:** [kpriyans(https://www.linkedin.com/in/kpriyanshu)]
 
