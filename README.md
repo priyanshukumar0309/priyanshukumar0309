@@ -41,6 +41,6 @@ In addition to these major projects, I’ve also built and experimented with pay
 
 * **Website:** [kumarpriyanshu.in](https://kumarpriyanshu.in)
 * **Email:** priyanshukumar0309@gmail.com
+* **Linedin:** [Kumar Priyanshu](https://www.linkedin.com/in/kpriyanshu)
 * **Location:** Stockholm, Sweden
-* **Linedin:** [kpriyans](https://www.linkedin.com/in/kpriyanshu)
 
