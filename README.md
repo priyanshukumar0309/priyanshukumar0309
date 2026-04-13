@@ -12,13 +12,13 @@ I’m a **product manager** with a deep interest in **fintech** and a hands‑on
 * **Tooling & Frameworks:** React Router, React Query, shadcn‑ui, Supabase, Streamlit, GSAP, Next.js
 
 ## Top Projects
-* 🗓 [**FinCore** (https://finafa.eu/)]– AI powered financial Platfomr for managing invoices, payments and accounting for Employees, suppliers and customers. 
-* 🧬 [**Sovereign‑Scrolls** (https://socur.finafa.eu/)] – Convert AI slop into byte-sized meaningful and rememberable knowledge cards. Platforms learns what you like and improves you wisdom on that. Kind of Instagram but for fun factual knowledge.
+* 🗓 [**FinCore**](https://finafa.eu/)– AI powered financial Platfomr for managing invoices, payments and accounting for Employees, suppliers and customers. 
+* 🧬 [**Sovereign‑Scrolls**](https://socur.finafa.eu/) – Convert AI slop into byte-sized meaningful and rememberable knowledge cards. Platforms learns what you like and improves you wisdom on that. Kind of Instagram but for fun factual knowledge.
  
 
     
-* 🚗 [**Car LoanHub Demo** (https://loanhub.kumarpriyanshu.in/)] – End‑to‑end car financing application for the Italian market. Features a step‑by‑step loan flow, finance calculator, offer comparison across banks, and SPID digital identity integration.
-* 🖌 [**Henna‑Design**(https://svenskhenna.netlify.app/)] – Portfolio website for a henna design brand. Implements an optimized deployment strategy using thumbnails versus full‑size images and offers Netlify deployment options. Built with TypeScript and HTML (public).
+* 🚗 [**Car LoanHub Demo**](https://loanhub.kumarpriyanshu.in/) – End‑to‑end car financing application for the Italian market. Features a step‑by‑step loan flow, finance calculator, offer comparison across banks, and SPID digital identity integration.
+* 🖌 [**Henna‑Design**](https://svenskhenna.netlify.app/) – Portfolio website for a henna design brand. Implements an optimized deployment strategy using thumbnails versus full‑size images and offers Netlify deployment options. Built with TypeScript and HTML (public).
 
 * 🌌 **Deep Space Node Explorer** – Interactive 3D portfolio built with React Three Fiber; explore projects via a starfield and hierarchical node tree with smooth camera controls. 
 * 🧘 **Boredom — Embrace Silence** – Minimal PWA that encourages stillness. Provides a black screen with slow‑typing messages, idle detection, optional voice mode, local AI running in‑browser, and offline capability (private).
@@ -42,5 +42,5 @@ In addition to these major projects, I’ve also built and experimented with pay
 * **Website:** [kumarpriyanshu.in](https://kumarpriyanshu.in)
 * **Email:** priyanshukumar0309@gmail.com
 * **Location:** Stockholm, Sweden
-* **Linedin:** [kpriyans(https://www.linkedin.com/in/kpriyanshu)]
+* **Linedin:** [kpriyans](https://www.linkedin.com/in/kpriyanshu)
 
